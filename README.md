@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Granatenma
-- 👀 I’m interested in nix
-- 🌱 I’m currently learning nix
+- 👀 I’m interested in lua
+- 🌱 I’m currently learning lua
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me pls dont
 - 😄 Pronouns: he/them
