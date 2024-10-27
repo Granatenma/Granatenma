@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning lua
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me pls dont
-- 😄 Pronouns: he/them
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: wombats shit quadratic
 
 <!---
